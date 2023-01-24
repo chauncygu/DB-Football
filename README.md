@@ -33,7 +33,7 @@ You can use any tool to manage your python environment. Here, we use conda as an
 3. activate the env by `conda activate light-malib` when you want to use it or you can add this line to your `.bashrc` file to enable it everytime you login into the bash.
 
 ### Install Light-MALib, PyTorch and Google Research Football
-1. In the root folder of this repo (with the `setup.py` file), run `pip install -r requirement.txt` to install dependencies of Light-MALib.
+1. In the root folder of this repo (with the `setup.py` file), run `pip install -r requirements.txt` to install dependencies of Light-MALib.
 2. In the root folder of this repo (with the `setup.py` file), run `pip install .` or `pip install -e .` to install Light-MALib.
 3. Follow the instructions in the official website https://pytorch.org/get-started/locally/ to install PyTorch (for example, version 1.13.0+cu116).
 4. Follow the instructions in the official repo https://github.com/google-research/football and install the Google Research Football environment.
