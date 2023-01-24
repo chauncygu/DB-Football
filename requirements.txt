@@ -19,6 +19,7 @@ dm-tree~=0.1.7
 parallel-ssh==2.11.1
 tabulate==0.8.10
 six==1.16.0
+torch
 easydict==1.9
 ipython
 colorlog==6.6.0
